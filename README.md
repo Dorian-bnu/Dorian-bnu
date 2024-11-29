@@ -3,13 +3,13 @@
 ## 🧐 About Me
 - 🎓 Master’s student in System Architecture at EPITECH.
 - 🌱 Currently learning: WebDev, DevOps, POO, and also Blockchain technologies.
-- 🚀 Interested in modern architectures, cybersecurity, and emerging technologies.
+- 🚀 Interest by all aspects of programming and software development, from design to implementation
 
 
 ## 🛠️ Skills
-- **Programming Languages**: Java, Python, PHP, Solidity.
+- **Programming Languages**: Java, Python, PHP.
 - **Web Development**: HTML/CSS.
-- **Other Skills**: System modeling, databases, and agile methodologies.
+- **Other Skills**: Solidity.
 
 ## 📬 How to Reach Me
 - 📧 Email: dorian.bonneau@epitech.eu
