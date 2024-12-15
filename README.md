@@ -16,5 +16,3 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/dorian-bonneau-17b65b1b6/
 
 ✨ _This `README.md` is a dynamic introduction to my GitHub profile. Feel free to connect with me for collaboration or interesting discussions!_
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3924794" style='border:none;'></iframe>
