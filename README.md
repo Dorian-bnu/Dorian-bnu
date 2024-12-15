@@ -15,4 +15,6 @@
 - 📧 Email: dorian.bonneau@epitech.eu
 - 💼 LinkedIn: https://www.linkedin.com/in/dorian-bonneau-17b65b1b6/
 
+- ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Dorianbnu.png)
+
 ✨ _This `README.md` is a dynamic introduction to my GitHub profile. Feel free to connect with me for collaboration or interesting discussions!_
