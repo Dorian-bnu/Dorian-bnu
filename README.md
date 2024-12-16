@@ -11,7 +11,6 @@
 - **Web Development**: HTML/CSS.
 - **Other Skills**:
 -  Solidity.
-- ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Dorianbnu.png)
 
 ## 📬 How to Reach Me
 - 📧 Email: dorian.bonneau@epitech.eu
