@@ -24,7 +24,7 @@
 
 
 ## 📬 How to Reach Me
-- 📧 Email: bonneau.dorian@gamil.com
+- 📧 Email: bonneau.dorian@gmail.com
 - 💼 LinkedIn: [Dorian Bonneau](https://www.linkedin.com/in/dorian-bonneau/)
 
 
