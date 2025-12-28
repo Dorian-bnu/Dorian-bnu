@@ -1,15 +1,15 @@
 👋 Hi, I’m Dorian
 
 ## 🧐 About Me
-- 🎓 Currently training to become a **Cybersecurity Systems Administrator** (RNCP Level 6) — starting September 2025.
-- 🔐 Passionate about network security, system administration, and self-hosted infrastructures.
+- 🎓 Cybersecurity & Systems Administrator 
+- 🔐 Certified Cisco CCNA — TCM PWPA — CompTIA A+
 
 ## 🛠️ Skills
 
-### 🔧 Technical Skills
+### 🔧 About Me
 - **Networking**: Cisco CCNA certified (Routing, Switching, VLAN, NAT, ACL, DHCP Snooping, etc.)
 - **Systems Admin**: Windows & Linux (Debian, Ubuntu), TrueNAS, Proxmox
-- **Security**: Network auditing, threat detection, basic pentesting (Kali Linux, Wireshark, Metasploit)
+- **Security**: Webapp auditing, threat detection, basic pentesting (Kali Linux, Wireshark, Metasploit)
 - **Virtualization & Cloud**: Proxmox, Docker, basic AWS, reverse proxy setup (Nginx, Certbot)
 - **Scripting & Automation**: Python, Bash, PowerShell, Ansible (basics)
   
@@ -24,7 +24,7 @@
 
 
 ## 📬 How to Reach Me
-- 📧 Email: bonneau.dorian@gmail.com
+- 📧 Email: bnu.dorian@gmail.com
 - 💼 LinkedIn: [Dorian Bonneau](https://www.linkedin.com/in/dorian-bonneau/)
 
 
