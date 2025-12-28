@@ -6,7 +6,6 @@
 
 ## 🛠️ Skills
 
-### 🔧 About Me
 - **Networking**: Cisco CCNA certified (Routing, Switching, VLAN, NAT, ACL, DHCP Snooping, etc.)
 - **Systems Admin**: Windows & Linux (Debian, Ubuntu), TrueNAS, Proxmox
 - **Security**: Webapp auditing, threat detection, basic pentesting (Kali Linux, Wireshark, Metasploit)
